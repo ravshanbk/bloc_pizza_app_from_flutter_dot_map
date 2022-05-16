@@ -1,17 +1,17 @@
 # bloc_pizza
 
-A new Flutter project.
+A new Flutter project that used bloc sample.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Made based on the video here](https://youtu.be/Ep6R7U9wa0U)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![Demo Animation](../assets/screen0.jpg?raw=false)
+
+<tr>
+	<p align="center">
+<img src="../assets/screen2.jpg" width="250" height="542"/>
+<img src="../assets/screen5.jpg" width="250" height="542"/>
+<img src="../assets/screen6.jpg" width="250" height="542"/>
+</p></tr>
